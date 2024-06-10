@@ -4,7 +4,7 @@
             "feed":[
                 {
                     "id": 1,
-                    "staticImage": "/assets/img/1.jpg",
+                    "staticImage": "/mirasoftworks/static/media/1.jpg",
                     "gifImage": "/assets/img/1.jpg",
                     "title": "Multiply score error fixed",
                     "content": "Multiply PU caused x3 in the score instead x2.",
