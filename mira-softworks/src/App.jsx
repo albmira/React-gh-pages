@@ -26,8 +26,8 @@ function App() {
                         <Route index element={<HomeView />} />
                         <Route path="projects" element={Fragment} />
                         <Route path="portfolio" element={<PortfolioView aboutText="Mira Softworks is not only a personal brand, it is what identifies me as a 3D artist and video game developer, so it is also my little corner on the web where I can share everything I learn with you. I hope you have fun exploring my projects and capture my passion for what I do. I work hard to deliver innovative and creative solutions to the challenges that come my way and I'm excited to show you what I've accomplished so far." bioText="Welcome to my portfolio as a 3D developer and modeler. Over the years, I have created high-quality, realistic 3D models for animation, video games, and virtual reality. I also have experience developing applications and interactive spaces. Browse my portfolio to see examples of my mastery in performance, texturing, lighting, and animation. I'm excited that one day you and I can work on future projects and take your ideas to the next level." />} />
-                        <Route exact path="privacy_policy" element={<PrivacyView />} />
-                        <Route path="privacy_policy/poplloon" element={<PrivacyPoplloonView />} />
+                        <Route exact path="privacy" element={<PrivacyView />} />
+                        <Route path="privacy/poplloon" element={<PrivacyPoplloonView />} />
                     
                         <Route path="*" element={<Navigate replace to="/" />} />
                     </Route>
