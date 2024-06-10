@@ -6,7 +6,7 @@ function Footer() {
     return <section>
         <div className="f-content cointainer mt-5" variant="dark">
             <footer className="d-flex justify-content-between align-items-end pb-1">
-                <blockquote className="m-0 px-3 text-muted"><small>Email: albertmiragamedev@gmail.com || Discord: smulli - Copy Right&copy; 2023 Mira Softworks Lab ||</small><span className="mx-1"><a href="privacy_policy" id="offsetText" className="link-light text-decoration-none"><small>Privacy</small></a></span></blockquote>
+                <blockquote className="m-0 px-3 text-muted"><small>Email: albertmiragamedev@gmail.com || Discord: smulli - Copy Right&copy; 2023 Mira Softworks Lab ||</small><span className="mx-1"><a href="privacy" id="offsetText" className="link-light text-decoration-none"><small>Privacy</small></a></span></blockquote>
 
                 <div className="col-2">
                     <a href="https://www.linkedin.com/in/albert-diaz-miravete-351180216/" target="_blank" rel="noopener noreferrer">

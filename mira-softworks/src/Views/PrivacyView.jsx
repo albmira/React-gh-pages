@@ -20,7 +20,7 @@ function PrivacyView() {
                         <div className="field-body">
                             <ul className="mt-4 px-5">
                                 <li>
-                                    <a className="link-light" href="privacy_policy/poplloon">Privacy Policy [Poplloon, Android, Effective Date: 8 Jun, 2024] </a>
+                                    <a className="link-light" href="privacy/poplloon">Privacy Policy [Poplloon, Android, Effective Date: 8 Jun, 2024] </a>
                                 </li>
                             </ul>
                         </div>
