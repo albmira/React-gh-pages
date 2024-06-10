@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import LIcon from "../Assets/Img/linkedin_icon.png";
 import TIcon from "../Assets/Img/Twitter_icon.png";
 //import DIcon from "../Assets/Img/discord_icon.png"
@@ -11,10 +10,10 @@ function Footer() {
 
                 <div className="col-2">
                     <a href="https://www.linkedin.com/in/albert-diaz-miravete-351180216/" target="_blank" rel="noopener noreferrer">
-                        <img id="socialIcon" className="img-fluid px-1" src={LIcon} height={30} width={30} />
+                        <img id="socialIcon" className="img-fluid px-1" src={LIcon} alt="Linkedin" height={30} width={30} />
                     </a>
                     <a href="https://twitter.com/MiraSoftworks" target="_blank" rel="noopener noreferrer">
-                        <img id="socialIcon" className="img-fluid px-1 mt-1" src={TIcon} height={30} width={30} />
+                        <img id="socialIcon" className="img-fluid px-1 mt-1" src={TIcon} alt="Twitter" height={30} width={30} />
                     </a>
                 </div>
             </footer>

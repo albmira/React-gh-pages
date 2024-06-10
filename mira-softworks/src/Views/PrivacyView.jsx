@@ -1,6 +1,4 @@
-import { Route, Routes } from "react-router";
 import { Helmet } from "react-helmet";
-
 
 function PrivacyView() {
     return <div>
