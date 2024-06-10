@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mirasoftworks/static/css/main.a5985c0e.css",
+    "main.js": "/mirasoftworks/static/js/main.64a7dd09.js",
+    "static/media/Logo_trans.png": "/mirasoftworks/static/media/Logo_trans.7e5cf65d709d2c3c4581.png",
+    "static/media/Albert.jpg": "/mirasoftworks/static/media/Albert.3ba02ec77cfcf934de90.jpg",
+    "static/media/Twitter_icon.png": "/mirasoftworks/static/media/Twitter_icon.965ef63b16001efc378c.png",
+    "index.html": "/mirasoftworks/index.html",
+    "main.a5985c0e.css.map": "/mirasoftworks/static/css/main.a5985c0e.css.map",
+    "main.64a7dd09.js.map": "/mirasoftworks/static/js/main.64a7dd09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5985c0e.css",
+    "static/js/main.64a7dd09.js"
+  ]
+}
